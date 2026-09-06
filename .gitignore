@@ -3,4 +3,4 @@ venv/
 __pycache__/
 *.pyc
 .vscode/
-"@ | Set-Content .gitignore
+"@ | Set-Content .gitignorescreenshots/
